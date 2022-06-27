@@ -1,6 +1,8 @@
 module.exports = {
   lintOnSave: false,
-  publicPath: '/resume',
+  publicPath: process.env.NODE_ENV = 'production'
+  ? '/resume/'
+  : '/',
   outputDir: 'docs',
   transpileDependencies: [
     'vuetify'
