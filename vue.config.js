@@ -1,6 +1,6 @@
 module.exports = {
   lintOnSave: false,
-  publicPath: '/<repository_name>',
+  publicPath: '/resume',
   outputDir: 'docs',
   transpileDependencies: [
     'vuetify'
