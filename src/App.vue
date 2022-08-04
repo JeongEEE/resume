@@ -7,17 +7,27 @@
 </template>
 
 <script>
-
+import { isMobile } from 'mobile-device-detect';
 export default {
-  name: 'GyuJeong Resume',
+  name: 'Resume',
   data: () => ({
     //
   }),
+  created() {
+    this.$store.state.isMobile = this.mobileCheck();
+  },
   mounted() {
     console.log(
       "%cGyuJeong Resume",
       "font-size:27px;color:#008DD0;",
     );
+  },
+  methods: {
+    mobileCheck() {
+			let check;
+			check = isMobile;
+			return check;
+		},
   },
 };
 </script>
@@ -34,7 +44,8 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   font-style: normal;
   text-align: center;
-  color: white;
+	line-height: 1.1;
+  color: black;
   height: 100%;
   width: 100%;
 }
@@ -53,7 +64,7 @@ html {
 		background-color: white !important;
 	}
 	&::-webkit-scrollbar-track {
-		background-color: #4A4A4A !important;
+		background-color: #272A33 !important;
 	}
 }
 </style>
