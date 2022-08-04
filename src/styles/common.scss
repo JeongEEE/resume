@@ -14,12 +14,24 @@
 	font-size: 3.75rem;
 	font-weight: bold;
 }
+#main_title_mobile {
+	font-size: 2.75rem;
+	font-weight: bold;
+}
 #main_introduce {
 	font-size: 2.25rem;
 	font-weight: bold;
 }
+#main_introduce_mobile {
+	font-size: 2rem;
+	font-weight: bold;
+}
 #sub_introduce {
 	font-size: 1.5rem;
+	font-weight: bold;
+}
+#sub_introduce_mobile {
+	font-size: 1.25rem;
 	font-weight: bold;
 }
 #sub_title {
@@ -27,8 +39,17 @@
 	font-weight: bold;
 	border-bottom: 1px solid rgb(215, 215, 215);
 }
+#sub_title_mobile {
+	font-size: 2rem;
+	font-weight: bold;
+	border-bottom: 1px solid rgb(215, 215, 215);
+}
 #item_detail {
 	font-size: 1rem;
+	line-height: 1.3;
+}
+#item_detail_mobile {
+	font-size: 0.85rem;
 	line-height: 1.3;
 }
 
