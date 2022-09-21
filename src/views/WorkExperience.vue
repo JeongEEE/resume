@@ -15,10 +15,16 @@
 					USEN의 Ueyes Cloud 웹 프론트엔드를 개발.<br>AWS 기반 실시간 영상 스트리밍 웹 서비스를 구축.<br>타임라인을 연동한 동영상 플레이어 모듈 구현
 				</v-col>
 				<v-col id="sub_introduce" class="ma-0 pa-0 pb-3" cols="12" align="left">
+					성과
+				</v-col>
+				<v-col id="item_detail" class="ma-0 pa-0 pb-6" cols="12" align="left">
+					동영상 타임라인 에디터를 포함한 비디오 플레이어 컴포넌트 개발<br>다중 동시접속 웹 스트리밍 서비스 구축
+				</v-col>
+				<v-col id="sub_introduce" class="ma-0 pa-0 pb-3" cols="12" align="left">
 					기술 스택
 				</v-col>
 				<v-col id="item_detail" class="ma-0 pa-0 pb-3" cols="12" align="left">
-					Vue.js, Vuetify, SCSS, AWS
+					Vue.js, Vuetify, SCSS, AWS kinesis Video Streams, Aws Amplify
 				</v-col>
 			</v-col>
 			
@@ -36,10 +42,16 @@
 					자사 솔루션 AI무인매대 시스템에 태블릿을 붙여서 파워풀엑스에 납품.<br>태블릿으로 얼굴인식을 이용하여 AI무인매대 이용 가능한 시스템을 구축 하였습니다.
 				</v-col>
 				<v-col id="sub_introduce" class="ma-0 pa-0 pb-3" cols="12" align="left">
+					성과
+				</v-col>
+				<v-col id="item_detail" class="ma-0 pa-0 pb-6" cols="12" align="left">
+					냉장고 10대 납품
+				</v-col>
+				<v-col id="sub_introduce" class="ma-0 pa-0 pb-3" cols="12" align="left">
 					기술 스택
 				</v-col>
 				<v-col id="item_detail" class="ma-0 pa-0 pb-3" cols="12" align="left">
-					Flutter, Dart, AWS
+					Flutter, AWS Rekognition
 				</v-col>
 			</v-col>
 
@@ -55,6 +67,12 @@
 				</v-col>
 				<v-col id="item_detail" class="ma-0 pa-0 pb-6" cols="12" align="left">
 					자사 솔루션 드론관제시스템 Beflyer 리뉴얼.<br>외주 개발된 시스템을 자사 기술 스택에 맞게 재구축 하였습니다.
+				</v-col>
+				<v-col id="sub_introduce" class="ma-0 pa-0 pb-3" cols="12" align="left">
+					성과
+				</v-col>
+				<v-col id="item_detail" class="ma-0 pa-0 pb-6" cols="12" align="left">
+					지도를 Vworld로 바꾸고, 커피스크립트로 개발된 프로젝트를 Vue.js로 리팩토링
 				</v-col>
 				<v-col id="sub_introduce" class="ma-0 pa-0 pb-3" cols="12" align="left">
 					기술 스택
@@ -78,6 +96,12 @@
 					국가과제. 캣휠, 체중계, 팬던트 등 각종 IOT 기기들을 게이트웨이와 연결하여 모바일 앱과 연동하였습니다.<br>반려동물의 각종 데이터를 확인할 수 있는 시스템 개발 하였습니다.<br>기기들을 연결할 게이트웨이 개발 업무를 담당.
 				</v-col>
 				<v-col id="sub_introduce" class="ma-0 pa-0 pb-3" cols="12" align="left">
+					성과
+				</v-col>
+				<v-col id="item_detail" class="ma-0 pa-0 pb-6" cols="12" align="left">
+					국가과제 수행완료
+				</v-col>
+				<v-col id="sub_introduce" class="ma-0 pa-0 pb-3" cols="12" align="left">
 					기술 스택
 				</v-col>
 				<v-col id="item_detail" class="ma-0 pa-0 pb-3" cols="12" align="left">
@@ -99,10 +123,16 @@
 					세종시 드론 배송 실증 과제에 사용할 모바일 앱을 개발.<br>구매자/판매자/배송기사가 구분되어 이용 가능한 앱을 목표로 구현.
 				</v-col>
 				<v-col id="sub_introduce" class="ma-0 pa-0 pb-3" cols="12" align="left">
+					성과
+				</v-col>
+				<v-col id="item_detail" class="ma-0 pa-0 pb-6" cols="12" align="left">
+					국가과제 실증완료
+				</v-col>
+				<v-col id="sub_introduce" class="ma-0 pa-0 pb-3" cols="12" align="left">
 					기술 스택
 				</v-col>
 				<v-col id="item_detail" class="ma-0 pa-0 pb-3" cols="12" align="left">
-					Flutter, Dart
+					Flutter
 				</v-col>
 			</v-col>
 
@@ -111,7 +141,7 @@
 					AI 무인매대
 				</v-col>
 				<v-col id="item_detail" class="ma-0 pa-0 pb-6" cols="12" align="left">
-					2019.10 ~ 현재
+					2019.10 ~ 2022.02
 				</v-col>
 				<v-col id="sub_introduce" class="ma-0 pa-0 pb-3" cols="12" align="left">
 					주요 업무
@@ -123,7 +153,7 @@
 					기술 스택
 				</v-col>
 				<v-col id="item_detail" class="ma-0 pa-0 pb-3" cols="12" align="left">
-					Vue.js, SCSS, Flutter, Dart
+					Vue.js, SCSS, Flutter
 				</v-col>
 			</v-col>
 		</template>
@@ -144,10 +174,16 @@
 					USEN의 Ueyes Cloud 웹 프론트엔드를 개발.<br>AWS 기반 실시간 영상 스트리밍 웹 서비스를 구축.<br>타임라인을 연동한 동영상 플레이어 모듈 구현
 				</v-col>
 				<v-col id="sub_introduce_mobile" class="ma-0 pa-0 pb-3" cols="12" align="left">
+					성과
+				</v-col>
+				<v-col id="item_detail_mobile" class="ma-0 pa-0 pb-6" cols="12" align="left">
+					동영상 타임라인 에디터를 포함한 비디오 플레이어 컴포넌트 개발<br>다중 동시접속 웹 스트리밍 서비스 구축
+				</v-col>
+				<v-col id="sub_introduce_mobile" class="ma-0 pa-0 pb-3" cols="12" align="left">
 					기술 스택
 				</v-col>
 				<v-col id="item_detail_mobile" class="ma-0 pa-0 pb-3" cols="12" align="left">
-					Vue.js, Vuetify, SCSS, AWS
+					Vue.js, Vuetify, SCSS, AWS kinesis Video Streams, Aws Amplify
 				</v-col>
 			</v-col>
 			
@@ -165,10 +201,16 @@
 					자사 솔루션 AI무인매대 시스템에 태블릿을 붙여서 파워풀엑스에 납품.<br>태블릿으로 얼굴인식을 이용하여 AI무인매대 이용 가능한 시스템을 구축 하였습니다.
 				</v-col>
 				<v-col id="sub_introduce_mobile" class="ma-0 pa-0 pb-3" cols="12" align="left">
+					성과
+				</v-col>
+				<v-col id="item_detail_mobile" class="ma-0 pa-0 pb-6" cols="12" align="left">
+					냉장고 10대 납품
+				</v-col>
+				<v-col id="sub_introduce_mobile" class="ma-0 pa-0 pb-3" cols="12" align="left">
 					기술 스택
 				</v-col>
 				<v-col id="item_detail_mobile" class="ma-0 pa-0 pb-3" cols="12" align="left">
-					Flutter, Dart, AWS
+					Flutter, AWS
 				</v-col>
 			</v-col>
 
@@ -184,6 +226,12 @@
 				</v-col>
 				<v-col id="item_detail_mobile" class="ma-0 pa-0 pb-6" cols="12" align="left">
 					자사 솔루션 드론관제시스템 Beflyer 리뉴얼.<br>외주 개발된 시스템을 자사 기술 스택에 맞게 재구축 하였습니다.
+				</v-col>
+				<v-col id="sub_introduce_mobile" class="ma-0 pa-0 pb-3" cols="12" align="left">
+					성과
+				</v-col>
+				<v-col id="item_detail_mobile" class="ma-0 pa-0 pb-6" cols="12" align="left">
+					지도를 Vworld로 바꾸고, 커피스크립트로 개발된 프로젝트를 Vue.js로 리팩토링
 				</v-col>
 				<v-col id="sub_introduce_mobile" class="ma-0 pa-0 pb-3" cols="12" align="left">
 					기술 스택
@@ -207,6 +255,12 @@
 					국가과제. 캣휠, 체중계, 팬던트 등 각종 IOT 기기들을 게이트웨이와 연결하여 모바일 앱과 연동하였습니다.<br>반려동물의 각종 데이터를 확인할 수 있는 시스템 개발 하였습니다.<br>기기들을 연결할 게이트웨이 개발 업무를 담당.
 				</v-col>
 				<v-col id="sub_introduce_mobile" class="ma-0 pa-0 pb-3" cols="12" align="left">
+					성과
+				</v-col>
+				<v-col id="item_detail_mobile" class="ma-0 pa-0 pb-6" cols="12" align="left">
+					국가과제 수행완료
+				</v-col>
+				<v-col id="sub_introduce_mobile" class="ma-0 pa-0 pb-3" cols="12" align="left">
 					기술 스택
 				</v-col>
 				<v-col id="item_detail_mobile" class="ma-0 pa-0 pb-3" cols="12" align="left">
@@ -228,10 +282,16 @@
 					세종시 드론 배송 실증 과제에 사용할 모바일 앱을 개발.<br>구매자/판매자/배송기사가 구분되어 이용 가능한 앱을 목표로 구현.
 				</v-col>
 				<v-col id="sub_introduce_mobile" class="ma-0 pa-0 pb-3" cols="12" align="left">
+					성과
+				</v-col>
+				<v-col id="item_detail_mobile" class="ma-0 pa-0 pb-6" cols="12" align="left">
+					국가과제 실증완료
+				</v-col>
+				<v-col id="sub_introduce_mobile" class="ma-0 pa-0 pb-3" cols="12" align="left">
 					기술 스택
 				</v-col>
 				<v-col id="item_detail_mobile" class="ma-0 pa-0 pb-3" cols="12" align="left">
-					Flutter, Dart
+					Flutter
 				</v-col>
 			</v-col>
 
@@ -240,7 +300,7 @@
 					AI 무인매대
 				</v-col>
 				<v-col id="item_detail_mobile" class="ma-0 pa-0 pb-6" cols="12" align="left">
-					2019.10 ~ 현재
+					2019.10 ~ 2022.02
 				</v-col>
 				<v-col id="sub_introduce_mobile" class="ma-0 pa-0 pb-3" cols="12" align="left">
 					주요 업무
@@ -252,7 +312,7 @@
 					기술 스택
 				</v-col>
 				<v-col id="item_detail_mobile" class="ma-0 pa-0 pb-3" cols="12" align="left">
-					Vue.js, SCSS, Flutter, Dart
+					Vue.js, SCSS, Flutter
 				</v-col>
 			</v-col>
 		</template>

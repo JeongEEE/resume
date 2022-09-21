@@ -48,6 +48,7 @@ export default {
   color: black;
   height: 100%;
   width: 100%;
+  // background-color: #3a3f4d;
 }
 .v-application {
   font-family: Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB,

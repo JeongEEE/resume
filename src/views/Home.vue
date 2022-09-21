@@ -4,20 +4,21 @@
 			<v-col class="ma-0 pa-0" cols="12" id="header">
 				<v-row class="ma-0 pa-0" align="center" id="header_body"></v-row>
 			</v-col>
-			<v-col class="pa-5" id="main_content_maxwidthset" cols="12">
+			<v-col class="pa-5" id="main_content_maxwidthset" cols="12"
+				style="background-color:#f1f4fd;">
 				<v-col id="main_title" class="ma-0 pa-0 mt-3" cols="12" align="left">
 					안녕하세요.<br>저는 김규정 입니다.
 				</v-col>
 				<v-col id="main_introduce" class="ma-0 pa-0 mt-10 mb-7" cols="12" align="left"
 					style="font-weight:500;">
-					3년차 웹 프론트엔드 개발자로 근무하고 있습니다.<br>저는 직관적이고 사용하기 쉬운 UI를 구현하는 것을 가장 최우선 목표로 가지고 있습니다. 프론트엔드 개발자는 사용자가 상호작용 하는데 가장 최적의 UI를 고민해야 한다고 생각합니다. 같이 일하기 편한 개발자가 되도록 노력하고 있습니다.
+					4년차 웹 프론트엔드 개발자로 근무하고 있습니다.<br>저는 직관적이고 사용하기 쉬운 UI를 구현하는 것을 가장 최우선 목표로 가지고 있습니다. 프론트엔드 개발자는 사용자가 상호작용 하는데 가장 최적의 UX를 고민해야 한다고 생각합니다. 같이 일하기 편한 개발자가 되도록 노력하고 있습니다.
 				</v-col>
 				<v-col id="sub_title" class="ma-0 pa-0 pb-2 mt-12 mb-7" cols="12" align="left">
 					# Work Experience
 				</v-col>
 				<v-col id="content_item" class="ma-0 pa-0" cols="12">
 					<v-row class="ma-0 pa-0" align="start">
-						<v-col class="ma-0 pa-0" cols="4">
+						<v-col class="ma-0 pa-0" cols="4" style="color:black;">
 							<v-col id="right_highlight" class="ma-0 pa-0" cols="8">
 								<v-col id="main_introduce" class="ma-0 pa-0 pb-3" cols="12" align="left">
 									Beyless
@@ -106,7 +107,7 @@
 				</v-col>
 				<v-col id="main_introduce_mobile" class="ma-0 pa-0 mt-10 mb-7" cols="12" align="left"
 					style="font-weight:500;">
-					3년차 웹 프론트엔드 개발자로 근무하고 있습니다.<br>저는 직관적이고 사용하기 쉬운 UI를 구현하는 것을 가장 최우선 목표로 가지고 있습니다. 프론트엔드 개발자는 사용자가 상호작용 하는데 가장 최적의 UI를 고민해야 한다고 생각합니다. 같이 일하기 편한 개발자가 되도록 노력하고 있습니다.
+					3년차 웹 프론트엔드 개발자로 근무하고 있습니다.<br>저는 직관적이고 사용하기 쉬운 UI를 구현하는 것을 가장 최우선 목표로 가지고 있습니다. 프론트엔드 개발자는 사용자가 상호작용 하는데 가장 최적의 UX를 고민해야 한다고 생각합니다. 같이 일하기 편한 개발자가 되도록 노력하고 있습니다.
 				</v-col>
 				<v-col id="sub_title_mobile" class="ma-0 pa-0 pb-2 mt-12 mb-7" cols="12" align="left">
 					# Work Experience
