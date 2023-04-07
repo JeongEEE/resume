@@ -1,4 +1,5 @@
 # resume
 ```
-김규정 자기소개
+https://jeongeee.github.io/resume/
+김규정 웹 이력서
 ```
