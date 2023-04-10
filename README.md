@@ -1,5 +1,5 @@
 # 🚀 Vue.js Resume 웹 이력서
-Node v.14.16.0, Vue 2, Vuetify
+Node v.14.16.0, Vue 2, Vuetify, 모바일 지원
 
 ----
 https://jeongeee.github.io/resume/
