@@ -2393,9 +2393,9 @@
     "lodash.uniq" "^4.5.0"
 
 "caniuse-lite@^1.0.0", "caniuse-lite@^1.0.30001109", "caniuse-lite@^1.0.30001358":
-  "integrity" "sha512-Xln/BAsPzEuiVLgJ2/45IaqD9jShtk3Y33anKb4+yLwQzws3+v6odKfpgES/cDEaZMLzSChpIGdbOYtH9MyuHw=="
-  "resolved" "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001359.tgz"
-  "version" "1.0.30001359"
+  "integrity" "sha512-lZim4iUHhGcy5p+Ri/G7m84hJwncj+Kz7S5aD4hoQfslKZJgt0tHc/hafVbqHC5bbhHb+mrW2JOUHkI5KH7toQ=="
+  "resolved" "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001477.tgz"
+  "version" "1.0.30001477"
 
 "case-sensitive-paths-webpack-plugin@^2.3.0":
   "integrity" "sha512-roIFONhcxog0JSSWbvVAh3OocukmSgpqOH6YpMkCvav/ySIV3JKg4Dc8vYtQjYi/UxpNE36r/9v+VqTQqgkYmw=="
